@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+
+          this is something const name = new type(arguments);
         </a>
       </header>
     </div>
